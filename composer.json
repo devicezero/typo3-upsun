@@ -1,0 +1,11 @@
+{
+    "require": {
+        "typo3/cms-introduction": "^4.7"
+    },
+    "config": {
+        "allow-plugins": {
+            "typo3/class-alias-loader": true,
+            "typo3/cms-composer-installers": true
+        }
+    }
+}
